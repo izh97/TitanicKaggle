@@ -7,7 +7,7 @@ It includes:
 2.   Feature imputation via k-Nearest-Neighbours
 3.   Feature generation
 4.   Feature scaling
-5.   Modeling via
+5.   Modeling via Logistic regression, Random forests, XGB, SVM, SGD.
 6.   Cross-validated feature selection via feature importance
 7.   Cross-validated hyperparameter tuning via
      * Bayesian optimization via HyperOpt
