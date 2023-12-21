@@ -10,8 +10,8 @@ It includes:
 5.   Modeling via
 6.   Cross-validated feature selection via feature importance
 7.   Cross-validated hyperparameter tuning via
- * Bayesian optimization via HyperOpt
- *  Grid Search
+     * Bayesian optimization via HyperOpt
+     * Grid Search
 8.   Ensembling via
   * Voting classifier
   *  Stacking with a Logistic Regression meta-learner
