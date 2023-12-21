@@ -13,5 +13,5 @@ It includes:
  * Bayesian optimization via HyperOpt
  *  Grid Search
 8.   Ensembling via
-  a. Voting classifier
-  b. Stacking with a Logistic Regression meta-learner
+  * Voting classifier
+  *  Stacking with a Logistic Regression meta-learner
